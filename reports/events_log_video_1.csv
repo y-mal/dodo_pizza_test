@@ -1,0 +1,2 @@
+table_id,frame,timestamp,timestamp_sec,event_type,description
+1,360,00:00:18,18.0,table_occupied,Клиент сел за стол #1

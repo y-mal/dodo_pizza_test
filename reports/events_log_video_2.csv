@@ -1,0 +1,5 @@
+table_id,frame,timestamp,timestamp_sec,event_type,description
+1,150,00:00:00,0,table_occupied,Клиент сел за стол #1
+1,1920,00:01:48,108,table_empty,Стол #1 освободился
+1,5040,00:05:16,316,table_occupied,Клиент сел за стол #1
+1,7290,00:07:46,466,table_empty,Стол #1 освободился
